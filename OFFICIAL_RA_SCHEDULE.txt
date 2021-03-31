@@ -1,0 +1,114 @@
+Alexandria McCormick  -  10 (3, 6, 1, [7])
+Weekends:  ['2021-03-05', '2021-03-20', '2021-04-09']
+Weekdays:  ['2021-03-28', '2021-03-07', '2021-02-14', '2021-02-28', '2021-02-21', '2021-03-01']
+Thursdays:  ['2021-03-25']
+Sandhya Sanapala  -  8 (2, 5, 1, [6])
+Weekends:  ['2021-03-19', '2021-02-20']
+Weekdays:  ['2021-02-16', '2021-03-16', '2021-04-06', '2021-03-23', '2021-03-15']
+Thursdays:  ['2021-02-11']
+Sarah Anderson  -  8 (2, 5, 1, [6])
+Weekends:  ['2021-04-03', '2021-03-12']
+Weekdays:  ['2021-03-30', '2021-02-16', '2021-03-16', '2021-02-23', '2021-03-22']
+Thursdays:  ['2021-04-01']
+Patrick Hocking  -  9 (2, 5, 2, [7])
+Weekends:  ['2021-03-05', '2021-02-26']
+Weekdays:  ['2021-03-30', '2021-03-09', '2021-03-02', '2021-03-23', '2021-02-15']
+Thursdays:  ['2021-03-04', '2021-03-18']
+Soumya Potu  -  7 (2, 3, 2, [5])
+Weekends:  ['2021-02-12', '2021-02-20']
+Weekdays:  ['2021-02-15', '2021-02-22', '2021-03-22']
+Thursdays:  ['2021-03-11', '2021-04-01']
+Matt Chen  -  10 (3, 6, 1, [7])
+Weekends:  ['2021-03-20', '2021-02-27', '2021-04-03']
+Weekdays:  ['2021-03-03', '2021-03-31', '2021-03-24', '2021-02-17', '2021-03-17', '2021-02-22']
+Thursdays:  ['2021-02-18']
+Sam Embersits  -  12 (4, 7, 1, [8])
+Weekends:  ['2021-04-10', '2021-02-19', '2021-03-26', '2021-03-13']
+Weekdays:  ['2021-02-14', '2021-03-14', '2021-03-21', '2021-03-07', '2021-03-28', '2021-04-04', '2021-03-29']
+Thursdays:  ['2021-04-08']
+Alessandra Bassani  -  8 (2, 5, 1, [6])
+Weekends:  ['2021-04-02', '2021-02-26']
+Weekdays:  ['2021-04-06', '2021-02-23', '2021-03-02', '2021-03-09', '2021-03-29']
+Thursdays:  ['2021-03-25']
+Kelly Finn  -  10 (3, 6, 1, [7])
+Weekends:  ['2021-02-27', '2021-03-06', '2021-02-13']
+Weekdays:  ['2021-02-17', '2021-03-17', '2021-02-24', '2021-03-10', '2021-04-07', '2021-03-03']
+Thursdays:  ['2021-03-18']
+Trey Wiggins  -  9 (4, 3, 2, [5])
+Weekends:  ['2021-04-10', '2021-02-12', '2021-03-19', '2021-03-12']
+Weekdays:  ['2021-03-08', '2021-03-01', '2021-04-05']
+Thursdays:  ['2021-02-11', '2021-03-11']
+Jennifer Aguilar  -  9 (3, 5, 1, [6])
+Weekends:  ['2021-04-02', '2021-03-13', '2021-02-19']
+Weekdays:  ['2021-02-24', '2021-03-10', '2021-03-24', '2021-04-07', '2021-03-31']
+Thursdays:  ['2021-02-18']
+Donna McNeill  -  8 (3, 3, 2, [5])
+Weekends:  ['2021-04-09', '2021-03-27', '2021-02-13']
+Weekdays:  ['2021-03-08', '2021-04-05', '2021-03-15']
+Thursdays:  ['2021-04-08', '2021-02-25']
+Muhammad Hamdan  -  10 (3, 5, 2, [7])
+Weekends:  ['2021-03-26', '2021-03-27', '2021-03-06']
+Weekdays:  ['2021-04-04', '2021-02-21', '2021-02-28', '2021-03-21', '2021-03-14']
+Thursdays:  ['2021-03-04', '2021-02-25']
+-----------------------------------
+-----------------------------------
+-----------------------------------
+2021-02-11 Sandhya Sanapala, Trey Wiggins
+2021-02-12 Soumya Potu, Trey Wiggins
+2021-02-13 Kelly Finn, Donna McNeill
+2021-02-14 Alexandria McCormick, Sam Embersits
+2021-02-15 Patrick Hocking, Soumya Potu
+2021-02-16 Sandhya Sanapala, Sarah Anderson
+2021-02-17 Matt Chen, Kelly Finn
+2021-02-18 Matt Chen, Jennifer Aguilar
+2021-02-19 Sam Embersits, Jennifer Aguilar
+2021-02-20 Sandhya Sanapala, Soumya Potu
+2021-02-21 Alexandria McCormick, Muhammad Hamdan
+2021-02-22 Soumya Potu, Matt Chen
+2021-02-23 Sarah Anderson, Alessandra Bassani
+2021-02-24 Kelly Finn, Jennifer Aguilar
+2021-02-25 Donna McNeill, Muhammad Hamdan
+2021-02-26 Patrick Hocking, Alessandra Bassani
+2021-02-27 Matt Chen, Kelly Finn
+2021-02-28 Alexandria McCormick, Muhammad Hamdan
+2021-03-01 Alexandria McCormick, Trey Wiggins
+2021-03-02 Patrick Hocking, Alessandra Bassani
+2021-03-03 Matt Chen, Kelly Finn
+2021-03-04 Patrick Hocking, Muhammad Hamdan
+2021-03-05 Alexandria McCormick, Patrick Hocking
+2021-03-06 Kelly Finn, Muhammad Hamdan
+2021-03-07 Alexandria McCormick, Sam Embersits
+2021-03-08 Trey Wiggins, Donna McNeill
+2021-03-09 Patrick Hocking, Alessandra Bassani
+2021-03-10 Kelly Finn, Jennifer Aguilar
+2021-03-11 Soumya Potu, Trey Wiggins
+2021-03-12 Sarah Anderson, Trey Wiggins
+2021-03-13 Sam Embersits, Jennifer Aguilar
+2021-03-14 Sam Embersits, Muhammad Hamdan
+2021-03-15 Sandhya Sanapala, Donna McNeill
+2021-03-16 Sandhya Sanapala, Sarah Anderson
+2021-03-17 Matt Chen, Kelly Finn
+2021-03-18 Patrick Hocking, Kelly Finn
+2021-03-19 Sandhya Sanapala, Trey Wiggins
+2021-03-20 Alexandria McCormick, Matt Chen
+2021-03-21 Sarah Anderson, Muhammad Hamdan
+2021-03-22 Sarah Anderson, Soumya Potu
+2021-03-23 Sandhya Sanapala, Patrick Hocking
+2021-03-24 Matt Chen, Jennifer Aguilar
+2021-03-25 Alexandria McCormick, Alessandra Bassani
+2021-03-26 Sam Embersits, Muhammad Hamdan
+2021-03-27 Donna McNeill, Muhammad Hamdan
+2021-03-28 Alexandria McCormick, Sam Embersits
+2021-03-29 Sam Embersits, Alessandra Bassani
+2021-03-30 Sarah Anderson, Patrick Hocking
+2021-03-31 Matt Chen, Jennifer Aguilar
+2021-04-01 Sarah Anderson, Soumya Potu
+2021-04-02 Alessandra Bassani, Jennifer Aguilar
+2021-04-03 Sarah Anderson, Matt Chen
+2021-04-04 Sam Embersits, Muhammad Hamdan
+2021-04-05 Trey Wiggins, Donna McNeill
+2021-04-06 Sandhya Sanapala, Alessandra Bassani
+2021-04-07 Kelly Finn, Jennifer Aguilar
+2021-04-08 Sam Embersits, Donna McNeill
+2021-04-09 Alexandria McCormick, Donna McNeill
+2021-04-10 Sam Embersits, Trey Wiggins
